@@ -11,14 +11,14 @@ body{
 }
 
 h1{
-    color: darkkhaki;
+    color: rgb(61, 58, 20);
     font: bolder;
 }
 
 h2{
-    color:darkseagreen;
+    color:rgb(41, 53, 41);
     font: italic;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 .booklist{
