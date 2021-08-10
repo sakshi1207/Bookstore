@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Bookstore from './Bookstore';
 import NestedComponent from './NestedComponent';
 // import FirstComponent from './firstComponent';// we imported our first component
 // import MyComponent from './myComponent';
@@ -8,7 +9,8 @@ import NestedComponent from './NestedComponent';
 
 ReactDOM.render(
   <React.StrictMode>
-    <NestedComponent />
+    <Bookstore />
+    {/* <NestedComponent /> */}
     {/* <FirstComponent/>  using firstcomponent */}
     {/* <MyComponent/> */}
 
